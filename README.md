@@ -303,6 +303,7 @@ Total deals: 166
 | ☀️ | [Sunboard](https://www.sunboardhq.com/?utm_source=tonybf) | Reduce churn with simple onboarding for SaaS. Build product tours, create interactive checklists, and send in-app messages to guide your users to success | 30% OFF with code **BLACKFRIDAY25**
 | 📚 | [Guidejar](https://www.guidejar.com?utm_source=tonybf) | Guidejar helps teams document how things work through AI-powered interactive walkthroughs that keep everyone aligned and up to speed. | 25% OFF with code **BFCM25**
 | 📱 | [NotionApps](https://www.notionapps.com/?utm_source=tonybf) | Build apps & portals from Notion databases with row-level and property-level data sharing, no coding required | 30% OFF on all plans, use code **BLACKFRIDAY25**
+| 🐝 | [Review Hives](https://www.reviewhives.com/?utm_source=bfcm) | Automated Google review requests by email and SMS. Helps businesses collect more genuine Google reviews without chasing customers. | $199 for the first year (original price $249) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
